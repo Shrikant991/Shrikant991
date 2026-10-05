@@ -6,14 +6,6 @@
 # Hi there👋! I'm [Shrikant]() 🙋‍♂️
 
 #### 🎍 Welcome to my hub 👨‍💻
-
-- 👨‍🎓 22 year old Information Technology Engineering Undergrad student.
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Full Stack developer.
-- 👨‍💻 Mostly working on ❤️Node JS ❤️React JS ❤️JS ❤️C++!
-- 🌐 Little bit exploring Web development too.
-- Loves 🎮 and 🎵.
-
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrikant991&&show_icons=true&title_color=ffffff&icon_color=87ceeb&text_color=daf7dc&bg_color=002366&show_icons=true&theme=dracula&line_height=27" alt="Shrikant Bhardwaj github stats"/>
